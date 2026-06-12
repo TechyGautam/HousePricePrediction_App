@@ -1,8 +1,8 @@
 import streamlit as st
 import joblib
 
-model = joblib.load("house_price_model_rf.pkl")
-scaler = joblib.load("house_price_scaler.pkl")
+model = joblib.load("house_price_prediction/house_price_model_rf.pkl")
+scaler = joblib.load("house_price_prediction/house_price_scaler.pkl")
 
 #  making UI
 st.title("🏡Predict Your Right House Price")
