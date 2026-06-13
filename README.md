@@ -3,7 +3,7 @@
 A Machine Learning web application that predicts house prices based on key property features. Built using Python, Scikit-Learn, Random Forest Regressor, and Streamlit.
 
 # Screenshots 
-(HousePricePrediction_App\Screenshots\appImage.png)
+<img src="Screenshots/appImage.png" width="700">
 
 ## 🚀 Live Demo
 
