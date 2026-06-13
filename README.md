@@ -26,6 +26,10 @@ This project predicts the estimated price of a house using important features su
 
 The model was trained on the Ames Housing Dataset and deployed using Streamlit Cloud.
 
+Initially, I considered using Linear Regression as a baseline model because it is simple and interpretable. However, real-world house price data is rarely perfectly linear and often contains complex relationships between features.
+
+So I chose Random Forest Regressor
+
 ---
 
 ## 🛠️ Technologies Used
