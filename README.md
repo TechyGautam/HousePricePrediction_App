@@ -138,7 +138,9 @@ Run the application:
 
 ```bash
 streamlit run app.py
-or
+```
+Or 
+```bash
 py -m streamlit run app.py
 ```
 
