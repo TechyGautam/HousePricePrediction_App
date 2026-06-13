@@ -119,13 +119,13 @@ house_price_prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/YourRepo.git
+git clone https://github.com/TechyGautam/HousePricePrediction_App.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd house_price_prediction
+cd HousePricePrediction_App
 ```
 
 Install dependencies:
@@ -138,6 +138,8 @@ Run the application:
 
 ```bash
 streamlit run app.py
+or
+py -m streamlit run app.py
 ```
 
 ---
