@@ -4,7 +4,7 @@ A Machine Learning web application that predicts house prices based on key prope
 
 ## 🚀 Live Demo
 
-[Add Your Streamlit App Link Here]
+https://techyhpp.streamlit.app/
 
 ## 📌 Project Overview
 
@@ -177,4 +177,4 @@ Passionate about Machine Learning, AI, and Building Real-World Projects.
 
 GitHub: https://github.com/TechyGautam
 
-LinkedIn: [Add Your LinkedIn Profile]
+LinkedIn: www.linkedin.com/in/tanishk-gautam-a70075383
