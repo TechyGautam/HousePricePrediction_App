@@ -7,7 +7,7 @@ A Machine Learning web application that predicts house prices based on key prope
 
 ## 🚀 Live Demo
 
-https://techyhpp.streamlit.app/
+https://techyh.streamlit.app/
 
 ## 📌 Project Overview
 
