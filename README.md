@@ -4,10 +4,11 @@ A Machine Learning web application that predicts house prices based on key prope
 
 # Screenshots 
 <img src="Screenshots/appImage.png" width="1100">
+<img src="Screenshots/prediction.png" width="1100">
 
 ## 🚀 Live Demo
 
-## => https://techyh.streamlit.app/
+## https://techyh.streamlit.app/
 
 ## 📌 Project Overview
 
