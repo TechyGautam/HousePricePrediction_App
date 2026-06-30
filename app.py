@@ -5,7 +5,7 @@ model = joblib.load("house_price_model_rf.pkl")
 scaler = joblib.load("house_price_scaler.pkl")
 
 #  making UI
-st.title(":blue[Predict] :red[House] :blue[Price]")
+st.title("🏠:blue[Predict] :red[House] :blue[Price]")
 
 overall_qual = st.slider(
     "Overall Quality (1-10)",
