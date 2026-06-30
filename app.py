@@ -5,7 +5,7 @@ model = joblib.load("house_price_model_rf.pkl")
 scaler = joblib.load("house_price_scaler.pkl")
 
 #  making UI
-st.title("🏡Predict Your Right House Price")
+st.title(":blue[Predict] :red[House] :blue[Price]")
 
 overall_qual = st.slider(
     "Overall Quality (1-10)",
@@ -14,37 +14,44 @@ overall_qual = st.slider(
 
 gr_liv_area = st.number_input(
     "Living Area (sq ft)",
-    min_value=0
+    min_value=0,
+    value = None
 )
 
 garage_cars = st.number_input(
     "Garage Capacity (cars)",
-    min_value=0
+    min_value=0,
+    value = None
 )
 
 garage_area = st.number_input(
     "Garage Area (sq ft)",
-    min_value=0
+    min_value=0,
+    value = None
 )
 
 total_bsmt_sf = st.number_input(
     "Basement Area (sq ft)",
-    min_value=0
+    min_value=0,
+    value = None
 )
 
 first_flr_sf = st.number_input(
     "1st Floor Area (sq ft)",
-    min_value=0
+    min_value=0,
+    value = None
 )
 
 full_bath = st.number_input(
     "Number of Full Bathrooms",
-    min_value=0
+    min_value=0,
+    value = None
 )
 
 tot_rooms = st.number_input(
     "Total Rooms Above Ground",
-    min_value=0
+    min_value=0,
+    value = None
 )
 
 year_built = st.number_input(

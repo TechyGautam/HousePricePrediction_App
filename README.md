@@ -3,11 +3,11 @@
 A Machine Learning web application that predicts house prices based on key property features. Built using Python, Scikit-Learn, Random Forest Regressor, and Streamlit.
 
 # Screenshots 
-<img src="Screenshots/appImage.png" width="700">
+<img src="Screenshots/appImage.png" width="1100">
 
 ## 🚀 Live Demo
 
-https://techyh.streamlit.app/
+## => https://techyh.streamlit.app/
 
 ## 📌 Project Overview
 
